@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: obraganca.github.io/traglog-doc
+  baseUrl: obraganca.github.io/traflog-doc
   ignorePatterns:
     - private
     - templates
