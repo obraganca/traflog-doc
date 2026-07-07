@@ -1,9 +1,8 @@
-
 ---
-title: 00-Início
+title: TRAFLOG (YMS) — Início
 tags: [traflog, início, overview]
 aliases:
-  - /
+  - 00-Início
 ---
 
 # TRAFLOG (YMS) — Início
