@@ -29,6 +29,7 @@ Possui filtro por coluna e o mesmo recurso de "Arraste aqui para definir os grup
 | Descrição | Texto | Nome/descrição do tipo de container | **Sim** (mensagem "Campo obrigatório." confirmada no print) | — |
 | Refrigerado | Checkbox | Indica se o container é refrigerado | Não | Desmarcado |
 | Ativo | Checkbox | Indica se o tipo está ativo no sistema | Não | Marcado |
+
 ![[tipos-container-novo-formulario.png]]
 ![[tipos-container-novo-formulario.png]]
 
