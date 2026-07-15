@@ -38,14 +38,8 @@ Tela inicial do módulo, acessada via **Cadastros**. Exibe todos os pátios cada
 
 ## Prints
 
-**Listagem carregando (estado inicial):**
-![[patios-listagem-carregando.png]]
-
-**Listagem preenchida (exemplo com dados):**
+**Listagem (exemplo com dados):**
 ![[patios-listagem-preenchida.png]]
-
-> [!tip]
-> Substitua os prints acima por capturas do ambiente de produção quando disponíveis — os atuais são do ambiente **OASIS HOMOLOGAÇÃO**.
 
 ## Relacionado
 

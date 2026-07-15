@@ -29,8 +29,8 @@ Clique no botão **Novo** (canto superior direito). Você será direcionado ao f
 
 Preencha: Descrição, Hora início, Hora fim, Duração atendimento, Cap. atend. simultâneo, e os campos de endereço (CEP, Endereço, Bairro, N°, Cidade, Complemento).
 
-> [!tip]
-> A **Duração atendimento** e a **Cap. atend. simultâneo** definem o tamanho e a quantidade de blocos disponíveis no calendário de [[Agendamento - Tela]] — defina com cuidado.
+> [!tip] Dica
+> A **Duração atendimento** e a **Cap. atend. simultâneo** definem o tamanho e a quantidade de blocos disponíveis no calendário de [[Agendamento - Tela]], defina com cuidado.
 
 ### 4. Cadastrar as ruas
 
@@ -60,12 +60,13 @@ Volte para [[Pátios - Listagem]] e confirme que o pátio aparece na tabela.
 
 ![[patios-listagem-preenchida.png]]
 
-Opcionalmente, use o ícone de mapa (🗺️) na linha do pátio para conferir visualmente a estrutura criada — veja [[Como consultar o mapa do pátio]].
+Opcionalmente, use o ícone de mapa (🗺️) na linha do pátio para conferir visualmente a estrutura criada, veja [[Como consultar o mapa do pátio]].
 
 ## Erros comuns
 
-> [!warning] Descrição em branco
-> Campos de texto obrigatórios (como Descrição, nos cadastros auxiliares) exibem a mensagem **"Campo obrigatório."** — o mesmo padrão provavelmente se aplica aqui. #pendente confirmar quais campos do pátio são de fato obrigatórios.
+> [!warning] Cambos obrigatorios
+> Como detalhando anteriormente em [[Pátios - Novo Pátio]], alguns campos são obrigatorios, e se não forem preenchidos, não conseguirar criar o pátio.
+>
 
 ## Próximos passos
 

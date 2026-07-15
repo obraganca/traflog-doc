@@ -29,7 +29,7 @@ Dentro de cada rua expandida, existe a seção **Quadras** — ver [[Quadras]] p
 
 ## Print
 
-![[patios-novo-patio-rua-quadras-vazio.png]]
+![[patios-novo-obrigatorio-vazio.png]]
 
 ## Relacionado
 

@@ -73,7 +73,7 @@ sujeito às restrições:
 
 $$ s \in {E,D},\quad f \in [1, F_s],\quad p \in [1, P_s],\quad n \in [1, N_s] $$
 
-Essa tupla é uma **bijeção** com um índice linear único no espaço de armazenagem — é o que o TOS (sistema de gerenciamento do pátio) usa internamente.
+Essa tupla é uma **bijeção** com um índice linear único no espaço de armazenagem — é o que o YMS (sistema de gerenciamento do pátio) usa internamente.
 
 ---
 
@@ -111,6 +111,3 @@ $$ \text{Cap}(Q) = \text{Cap}(E) + \text{Cap}(D) = \sum_{s \in {E,D}} F_s \cdot 
 - [[Pátios]]
 - [[Quadras]]
 - [[Mapa do Pátio]]
-
-> [!warning] Notas ainda não criadas #pendente
-> Os conceitos de "Endereçamento de Contêineres" e "TOS - Terminal Operating System" são citados mas ainda não têm nota própria neste vault. Criar quando houver conteúdo suficiente.

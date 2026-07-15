@@ -16,14 +16,14 @@ tags: [traflog, manual, agendamento]
 
 ### 1. Acessar a tela
 
-Menu **Transporte → Agendamentos** #pendente confirmar o caminho exato do menu.
+Menu **Cadastros → YMS -> Agendamento** confirmar o caminho exato do menu.
 
 ### 2. Selecionar empresa e pátio
 
 Escolha a **Empresa** utilizadora e o **Pátio** requisitado nos dois dropdowns superiores.
 
-> [!tip]
-> Antes de escolher os horários, use o botão de mapa 🗺️ ao lado do campo Pátio para conferir a disponibilidade física — veja [[Como consultar o mapa do pátio]].
+> [!tip] Dica
+> Antes de escolher os horários, use o botão de mapa 🗺️ ao lado do campo Pátio para conferir a disponibilidade física, veja [[Como consultar o mapa do pátio]].
 
 ### 3. Navegar até a semana desejada
 

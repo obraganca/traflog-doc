@@ -10,11 +10,11 @@ Cadastro auxiliar de **tipo de lacre**.
 
 ## Listagem
 
-| Coluna | Descrição |
-|---|---|
-| Descrição | Nome do tipo de lacre |
-| Ativo | Indica se o tipo está ativo |
-| Ações | Ações por linha #pendente confirmar quais ícones existem |
+| Coluna    | Descrição                                                                                                      |
+| --------- | -------------------------------------------------------------------------------------------------------------- |
+| Descrição | Nome do tipo de lacre                                                                                          |
+| Ativo     | Indica se o tipo está ativo                                                                                    |
+| Ações     | Ao clicar no ícone de lupa, é possível visualizar e editar as informações: Descrição e Status (ativo/inativo). |
 
 ![[tipos-lacre-listagem-carregando.png]]
 

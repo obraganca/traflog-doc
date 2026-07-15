@@ -52,24 +52,13 @@ Anexos/                             → prints de tela usados nas notas
 
 ## Glossário rápido
 
-| Termo | Significado |
+| Termo       | Significado |
 |---|---|
-| **Pátio** | Local físico onde os containers ficam armazenados |
-| **Rua** | Subdivisão do pátio; agrupa uma ou mais quadras |
-| **Quadra** | Porção de terra dentro de uma rua, dividida em Lado Esquerdo/Direito, Filas, Posições e Níveis |
-| **Fila** | Subdivisão de um lado da quadra (ex: Fila 1, Fila 2) |
+| **Pátio**   | Local físico onde os containers ficam armazenados |
+| **Rua**     | Subdivisão do pátio; agrupa uma ou mais quadras |
+| **Quadra**  | Porção de terra dentro de uma rua, dividida em Lado Esquerdo/Direito, Filas, Posições e Níveis |
+| **Fila**    | Subdivisão de um lado da quadra (ex: Fila 1, Fila 2) |
 | **Posição** | "Coluna" dentro de uma fila (ex: P1, P2, P3) |
-| **Nível** | Altura de empilhamento dentro de uma posição |
-| **TOS/YMS** | Sistema de gerenciamento de pátio/terminal (o próprio TRAFLOG, neste contexto) |
+| **Nível**   | Altura de empilhamento dentro de uma posição |
+| **YMS**     | Sistema de gerenciamento de pátio/terminal (o próprio TRAFLOG, neste contexto) |
 
-> [!warning] Pendente #pendente
-> Confirmar se existem **perfis de usuário** distintos (admin, operador de pátio, motorista/transportadora agendando) e se as permissões variam entre eles. Ainda não documentado.
-
----
-
-## Legenda de status usada nas tabelas
-
-- 🟢 Completo
-- 🟡 Em construção / parcialmente documentado
-- 🔴 Não iniciado
-- `#pendente` — trecho que precisa de confirmação ou complemento seu

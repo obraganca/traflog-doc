@@ -48,13 +48,14 @@ Rodapé da tabela mostra **Linhas** e **Total de Linhas**.
 ## Prints
 
 **Seção vazia:**
-![[patios-novo-patio-rua-quadras-vazio.png]]
+![[patios-novo-patio-formulario.png]]
+
 
 **Com quadras adicionadas:**
 ![[patios-quadras-tabela-preenchida.png]]
 
-> [!warning] Pendente #pendente
-> Confirmar se há validação mínima (ex: não permitir salvar com todas as quantidades zeradas) e se os campos "Fila E..." truncados na tabela têm tooltip com o nome completo.
+> [!tip] Dica
+>O preenchimento das informações das quadras não é obrigatório. No entanto, se não forem preenchidas, elas aparecerão vazias ao abrir o mapa do pátio."
 
 ## Relacionado
 
